@@ -6,6 +6,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+/**
+ * https://blog.csdn.net/lmj623565791/article/details/43131133
+ *
+ * @author zhy, jiaxinji
+ */
 public class MainActivity extends AppCompatActivity {
 
     private CircleMenuLayout mCircleMenuLayout;
